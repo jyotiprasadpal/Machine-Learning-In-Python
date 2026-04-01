@@ -143,6 +143,7 @@ Recordings of AI/Deep Learning from Edureka:
 
 **Books**
   * [An Introduction to Statistical Learning - Video, pdf, slides](https://www-bcf.usc.edu/~gareth/ISL/)
+  * [Book - Master Machine Learning with scikit-learn - by Kevin](https://mlbook.dataschool.io/)
   * [The Hundred-Page Machine Learning Book - Andriy Burkov](http://themlbook.com/)
   * [Neural Networks and Deep Learning - Michael Nielsen - html](http://neuralnetworksanddeeplearning.com/index.html)
   * [Neural Networks and Deep Learning - Michael Nielsen - pdf](http://static.latexstudio.net/article/2018/0912/neuralnetworksanddeeplearning.pdf)
@@ -164,8 +165,8 @@ Recordings of AI/Deep Learning from Edureka:
  - [UCI Machine Learning datasets](https://archive.ics.uci.edu/ml/datasets.php)
  - [github: uci-machine-learning](https://github.com/topics/uci-machine-learning)
  - [github: Machine learning sample projects](https://github.com/saife245/MACHINE-LEARNING-PROJECTS)
- - [Commonly used Machine Learning Algorithms (with Python and R Codes)](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)
- - [The best resources for Deep Learning from beginner to advance](https://www.kaggle.com/getting-started/37999)
+ - [Commonly used Machine Learning Algorithms (with Python and R Codes) - analytics vidhya](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)
+ - [The best resources for Deep Learning from beginner to advance - kaggle](https://www.kaggle.com/getting-started/37999)
  - [SOME RESOURCES FOR GRAPHICAL MODELS](http://thegrandjanitor.com/2017/07/14/some-resources-for-graphical-models/)
  - [Keep it simple! How to understand Gradient Descent algorithm](https://www.kdnuggets.com/2017/04/simple-understand-gradient-descent-algorithm.html)
  - [Machine Learning - Gradient Descent](https://www.codeproject.com/Articles/1196024/Machine-Learning-Gradient-Descent)
@@ -175,7 +176,7 @@ Recordings of AI/Deep Learning from Edureka:
  - [Cross validation the right and wrong way](https://medium.com/@williamhaarder/cross-validation-the-right-and-wrong-way-589b8c9cc2c6)
 
 ### Data analysis
- - [Example - data analysis of iris data set](https://www.kaggle.com/danalexandru/simple-analysis-of-iris-dataset)
+ - [Example - data analysis of iris data set - kaggle](https://www.kaggle.com/danalexandru/simple-analysis-of-iris-dataset)
  - [Data Visualization for Beginners-Part 3](https://www.hackerearth.com/blog/developers/data-visualization-for-beginners-part-3/)
 
 ### Metrics:
